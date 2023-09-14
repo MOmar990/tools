@@ -1,0 +1,12 @@
+Starting Nmap 7.94 ( https://nmap.org ) at 2023-08-17 10:57 EEST
+Nmap scan report for www.google.com (142.251.37.36)
+Host is up (0.049s latency).
+Other addresses for www.google.com (not scanned): 2a00:1450:4006:803::2004
+rDNS record for 142.251.37.36: mrs09s13-in-f4.1e100.net
+Not shown: 997 filtered tcp ports (no-response), 1 filtered tcp ports (net-unreach)
+Some closed ports may be reported as filtered due to --defeat-rst-ratelimit
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 6.31 seconds

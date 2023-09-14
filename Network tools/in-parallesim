@@ -1,0 +1,4 @@
+# Nmap 7.94 scan initiated Sun Aug 20 15:50:20 2023 as: nmap -sS -p21-443 -min-parallesim 10 scaneme.nmap.org
+Host: 45.33.49.119 (ack.nmap.org)	Status: Up
+Host: 45.33.49.119 (ack.nmap.org)	Ports: 22/open/tcp//ssh///, 70/closed/tcp//gopher///, 80/open/tcp//http///, 113/closed/tcp//ident///, 443/open/tcp//https///	Ignored State: filtered (418)
+# Nmap done at Sun Aug 20 15:50:32 2023 -- 2 IP addresses (1 host up) scanned in 12.38 seconds

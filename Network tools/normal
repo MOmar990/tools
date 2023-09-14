@@ -1,0 +1,4 @@
+# Nmap 7.94 scan initiated Sun Aug 20 09:19:52 2023 as: nmap -sS -vv -oN normal -Pn 192.168.1.38
+Nmap scan report for 192.168.1.38 [host down, received no-response]
+Read data files from: /usr/bin/../share/nmap
+# Nmap done at Sun Aug 20 09:19:53 2023 -- 1 IP address (0 hosts up) scanned in 1.56 seconds

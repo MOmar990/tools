@@ -1,0 +1,26 @@
+
+# scanning speed :
+  Category             |  max parallelism    |  max scan delay
+                       |                     |
+T0 / Paranoid          |      Serial         | 
+                       |
+T1 / Sneaky            |      Serial
+                       |
+T2 / Polite            |      Serial
+                       |
+T3 / Normal            |      Parallel
+                       |
+T4 / Aggressive        |      Parallel
+                       |
+T5 / Insane            |      Parallel
+
+Parallesim :
+ fast & Not accurate -----> -mini-parallesim (n)
+ slow & accurate     -----> -max-parallesim  (n)                  |
+
+# Host scanning :
+  -min-hostgroup faster but less detalis
+  -max-hostgroub slower but more accurate
+
+        
+                       

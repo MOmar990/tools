@@ -1,0 +1,22 @@
+Starting Nmap 7.94 ( https://nmap.org ) at 2023-08-17 10:54 EEST
+Nmap scan report for scaneme.nmap.org (45.33.49.119)
+Host is up (0.20s latency).
+Other addresses for scaneme.nmap.org (not scanned): 2600:3c01:e000:3e6::6d4e:7061
+rDNS record for 45.33.49.119: ack.nmap.org
+Not shown: 96 filtered tcp ports (no-response)
+PORT    STATE  SERVICE
+22/tcp  open   ssh
+80/tcp  open   http
+113/tcp closed ident
+443/tcp open   https
+
+Nmap scan report for www.google.com (172.217.171.196)
+Host is up (0.048s latency).
+Other addresses for www.google.com (not scanned): 2a00:1450:4006:810::2004
+rDNS record for 172.217.171.196: mrs09s06-in-f4.1e100.net
+Not shown: 98 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 2 IP addresses (2 hosts up) scanned in 4.83 seconds

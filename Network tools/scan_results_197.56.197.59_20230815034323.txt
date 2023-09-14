@@ -1,0 +1,2 @@
+# Nmap 7.94 scan initiated Tue Aug 15 03:43:23 2023 as: nmap -sT -oN scan_results_197.56.197.59_20230815034323.txt 197.56.197.59
+# Nmap done at Tue Aug 15 03:43:26 2023 -- 1 IP address (0 hosts up) scanned in 3.03 seconds
